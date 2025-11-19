@@ -1,7 +1,7 @@
 # Algorithmic Strategies Mini Project  
 **Course:** Design and Analysis of Algorithms (ENCA351)  
 **Faculty:** Dr. Aarti Sangwan  
-**Student:** Your Name  
+**Student:** DOLLIE 
 **Session:** 2025-26
 
 ---
